@@ -8,4 +8,3 @@ I like :pizza:, :icecream:
 
 Aprendimos a editar el archivo readme
 
-Primer cambio para realizar un pull
